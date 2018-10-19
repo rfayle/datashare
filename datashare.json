@@ -132,7 +132,7 @@
         "Gender": "M",
         "Grade": 11,
         "ClassOf": 2020,
-        "SchoolID": 2,
+        "SchoolID": 3,
         "MIN": "564-454-555",
         "UserID": "brendan.clonfert",
         "DateOfBirth": "2002-12-27",
@@ -163,11 +163,11 @@
         "EA7RECORDSID": 54549,
         "Birthdate": "1980-07-26T00:00:00",
         "ONSIS": true,
-        "SchoolID": 2
+        "SchoolID": 3
       },
       "SchoolInfo": {
-        "SchoolID": 2,
-        "SchoolName": "Upper School",
+        "SchoolID": 3,
+        "SchoolName": "Middle School",
         "StreetAddress": "15800 Yonge Street\r\n\r\n",
         "City": "Aurora",
         "StateProvince": "ON",
