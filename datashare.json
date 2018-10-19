@@ -84,8 +84,8 @@
         "House": "Memorial",
         "Clan": "Buchanan",
         "Advisor": 66,
-        "CitizenshipID": 3,
-        "StatusInCanada": "CANADIAN CITIZEN",
+        "CitizenshipID": 18,
+        "StatusInCanada": "VISA STUDENT",
         "StudentGUID": "75395",
         "DateOfEntry": "2016-09-08"
       },
@@ -116,11 +116,10 @@
         "SchoolType": "S"
       },
       "CountryCode": {
-        "countryCodeID": 3,
-        "DESCRIPTION": "CANADA",
-        "SHORTDESCRIPTION": "CAN",
-        "OUACID": 800
-      }
+        "countryCodeID":18,
+        "DESCRIPTION":"MEXICO",
+        "SHORTDESCRIPTION":"MEX",
+        "OUACID":388}
     },
     {
       "DT_RowId": "row_00000003",
@@ -206,8 +205,8 @@
         "House": "Ramsey",
         "Clan": "Ramsay",
         "Advisor": 20,
-        "CitizenshipID": 3,
-        "StatusInCanada": "CANADIAN CITIZEN",
+        "CitizenshipID": 29,
+        "StatusInCanada": "PERMANENT RES",
         "StudentGUID": "54572",
         "DateOfEntry": "2012-09-06"
       },
@@ -238,11 +237,10 @@
         "SchoolType": "S"
       },
       "CountryCode": {
-        "countryCodeID": 3,
-        "DESCRIPTION": "CANADA",
-        "SHORTDESCRIPTION": "CAN",
-        "OUACID": 800
-      }
+        "countryCodeID":29,
+        "DESCRIPTION":"CHINA",
+        "SHORTDESCRIPTION":"CHN",
+        "OUACID":136}
     }
   ]
 }
